@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+h3 {
+    width: 149px;
+    height: 36px;
+    left: 85px;
+    top: 68px;
+}
